@@ -1,7 +1,9 @@
-## Backend CA-2 Done
+# Backend CA-2 Done
 
-(This is the Deployed Link of Render)[https://backend-ca-2-g5je.onrender.com]
+[This is the Deployed Link of Render](https://backend-ca-2-g5je.onrender.com)
+ 
+## 1) install node modules and then,
+  npm i
 
-
-# install node modules and then,
-# npm start or node index.js to start the server.
+## 2) To start the server-
+  npm start or node index.js
